@@ -68,3 +68,6 @@ pop             # Remove the last element
 print           # Print the list: [5, 6]
 reverse         # Reverse the list
 print           # Print the reversed list: [6, 5]
+
+License
+This project is open-source and available under the MIT License.
